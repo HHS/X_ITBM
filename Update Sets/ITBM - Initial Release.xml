@@ -1,0 +1,1679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2018-11-30 19:08:21">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Configuration changes to finalize the initial release of the IT Business Management Suite for production use.</description>
+<inserted/>
+<name>ITBM - Initial Release</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="ITBM - Initial Release">fe79c39adbc2a3006bb976740f9619a4</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>944c4a69db7563006373748e0f961979</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>fe79c39adbc2a3006bb976740f9619a4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Ensure tracked tasks with child tasks properly aggregate the status from child tasks.</description>
+<inserted/>
+<name>ITBM - Tracked Task rollup</name>
+<origin_sys_id/>
+<parent display_value="ITBM - Initial Release">fe79c39adbc2a3006bb976740f9619a4</parent>
+<release_date/>
+<remote_base_update_set display_value="ITBM - Initial Release">fe79c39adbc2a3006bb976740f9619a4</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>0483ccb9db4623006bb976740f961945</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>3a79c39adbc2a3006bb976740f9619a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Configuration for managing requirement statements</description>
+<inserted/>
+<name>ITBM - Requirement</name>
+<origin_sys_id/>
+<parent display_value="ITBM - Initial Release">fe79c39adbc2a3006bb976740f9619a4</parent>
+<release_date/>
+<remote_base_update_set display_value="ITBM - Initial Release">fe79c39adbc2a3006bb976740f9619a4</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>69344249db90a3006373748e0f96199e</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>b679c39adbc2a3006bb976740f9619a7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Changes to eliminate additional Demand types that will not be used.</description>
+<inserted/>
+<name>ITBM - Reduce Demand Types</name>
+<origin_sys_id/>
+<parent display_value="ITBM - Initial Release">fe79c39adbc2a3006bb976740f9619a4</parent>
+<release_date/>
+<remote_base_update_set display_value="ITBM - Initial Release">fe79c39adbc2a3006bb976740f9619a4</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>82c3a3addbc223006bb976740f9619e9</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>f279c39adbc2a3006bb976740f9619aa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Configuration changes to finalize the initial release of the IT Business Management Suite for production use.</description>
+<inserted/>
+<name>ITBM - Initial Release</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="ITBM - Initial Release">fe79c39adbc2a3006bb976740f9619a4</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>944c4a69db7563006373748e0f961979</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>fe79c39adbc2a3006bb976740f9619a4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_b9fdd0a337301200455726877e41f133</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;true&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;planned_task&lt;/collection&gt;&lt;condition&gt;(PMPropertiesUtil.isCostRollUp(current.getTableName()) == 'true' ) &amp;amp;&amp;amp; (current.cost.changes() || current.parent.changes() || current.operation() == "delete")&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Planned Task Estimated Cost Rollup&lt;/name&gt;&lt;order&gt;200&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous) {
+	var isProjectOrProjectTask = current.instanceOf('pm_project') || current.instanceOf('pm_project_task');
+	if(!isProjectOrProjectTask)
+		return;
+
+	var entityUpdater = new PlannedTaskEntityUpdater();
+
+	if(!current.parent.nil()) {		
+		var parent = new GlideRecord('planned_task');
+		if (parent.get(current.parent))
+			entityUpdater.updatePlannedTaskEstimatedCost(parent);
+	}
+	
+	if(current.parent.changes() &amp;&amp; !previous.parent.nil()) {
+		var prevParent = new GlideRecord('planned_task');
+		if (prevParent.get(previous.parent))
+			entityUpdater.updatePlannedTaskEstimatedCost(prevParent);
+	}
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2016-01-12 19:37:08&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;b9fdd0a337301200455726877e41f133&lt;/sys_id&gt;&lt;sys_mod_count&gt;18&lt;/sys_mod_count&gt;&lt;sys_name&gt;Planned Task Estimated Cost Rollup&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Project Management" source="com.snc.project_management_v3"&gt;c7c742bf6f390200d45331012e3ee496&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_b9fdd0a337301200455726877e41f133&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-28 18:28:23&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b9fdd0a337301200455726877e41f133"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>930393557</payload_hash>
+<remote_update_set display_value="ITBM - Tracked Task rollup">3a79c39adbc2a3006bb976740f9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>3a79c39adbc2a3006bb976740f9619a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675b9447130000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<table>planned_task</table>
+<target_name>Planned Task Estimated Cost Rollup</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>0a2da0fd52c62300068b6724a24844e4</update_guid>
+<update_guid_history>0a2da0fd52c62300068b6724a24844e4:930393557,022d20fd6cc623009c9378e43a427dcb:-352797892</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_6b7de0fddbc623006bb976740f961945</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;true&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;planned_task&lt;/collection&gt;&lt;condition&gt;(PMPropertiesUtil.isCostRollUp(current.getTableName()) == 'true' ) &amp;amp;&amp;amp; (current.work_cost.changes() || current.operation() == "delete")&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="planned_task"&gt;parentISNOTEMPTY^EQ&lt;item endquery="false" field="parent" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Project Actual Cost Rollup&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[calcCost();
+
+function calcCost() {
+	var isProjectOrProjectTask = current.instanceOf('pm_project') || current.instanceOf('pm_project_task') || current.instanceOf('u_tracked_task');
+	if(!isProjectOrProjectTask)
+		return;
+	
+	var parent = new GlideRecord('planned_task');
+	if (!parent.get(current.parent))
+		return;
+	var childWorkCost = 0;
+	if (gs.getProperty("glide.cost_mgmt.process_task_top_task") != "true" || (current.parent != current.top_task)) {
+		var sibling = new GlideAggregate('planned_task');
+		sibling.addQuery('parent', current.parent);
+		sibling.query();
+		
+		
+		while(sibling.next()){
+			childWorkCost+= parseFloat(sibling.getValue("work_cost"));
+		}
+		
+		if (isNaN(childWorkCost))
+			childWorkCost = 0;
+	}
+	
+	var parentExpenseCost = 0; // default
+	// if we are getting costs from expense lines, include the parent's expenses
+	// just in case
+	// requires the cost management plugin
+	//check for expense table just in case
+	var tu = new TableUtils("fm_expense_line");
+	if (tu.tableExists() &amp;&amp; gs.getProperty("glide.cost_mgmt.calc_actual_cost") == "true") {
+		var exp = new GlideAggregate("fm_expense_line");
+		exp.addQuery("source_table", parent.sys_class_name);
+		exp.addQuery("source_id", current.parent);
+		exp.addQuery("state", "processed");
+		exp.query();
+		while (exp.next())
+			parentExpenseCost+= parseFloat(exp.getValue("amount"));
+		
+		if (isNaN(parentExpenseCost))
+			parentExpenseCost = 0;
+	}
+	var parentUpdate = false;
+	parentChildActual = parseFloat(childWorkCost + parentExpenseCost);
+	// actual cost field
+	if (parent.work_cost != parentChildActual) {
+		parent.work_cost = parentChildActual;
+		parentUpdate = true;
+	}
+	
+	if (parentUpdate)
+		parent.update();
+	
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-11-28 18:29:51&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;6b7de0fddbc623006bb976740f961945&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Project Actual Cost Rollup&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_6b7de0fddbc623006bb976740f961945&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-28 18:30:38&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=6b7de0fddbc623006bb976740f961945"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>142298795</payload_hash>
+<remote_update_set display_value="ITBM - Tracked Task rollup">3a79c39adbc2a3006bb976740f9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>3e79c39adbc2a3006bb976740f9619a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675b9657f30000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<table>planned_task</table>
+<target_name>Project Actual Cost Rollup</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>8bada4fd35c623005874b385cabe1c6a</update_guid>
+<update_guid_history>8bada4fd35c623005874b385cabe1c6a:142298795,e77da4fd1ac62300edd1f00addf272f9:1345167212</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_ecd672dc9f100300598a5bb0657fcf28</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;planned_task&lt;/collection&gt;&lt;condition&gt;current.instanceOf('pm_project') || current.instanceOf('pm_project_task')&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="planned_task"&gt;work_startVALCHANGES^ORwork_endVALCHANGES^EQ&lt;item endquery="false" field="work_start" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="false" field="work_end" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Update State On Actuals - Projects&lt;/name&gt;&lt;order&gt;45&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	var stateUtil = new PlannedTaskStateUtil(current);
+	if ( current.work_start.changes() &amp;&amp; (stateUtil.isStateOpen(current.state) || stateUtil.isStatePending(current.state)) )
+		handleActualDateChange(current);
+	if ( current.work_start.changes() &amp;&amp; JSUtil.nil(current.work_start) )
+		handleActualDateChange(current);
+	if ( current.work_end.changes() &amp;&amp; !stateUtil.isStateInactive(current.state) )
+		handleActualDateChange(current);
+	if ( current.work_end.changes() &amp;&amp; JSUtil.nil(current.work_end) )
+		handleActualDateChange(current);
+})(current, previous);
+
+function handleActualDateChange(gr) {
+	var stateChangeOnActualsHandler = new PlannedTaskStateChangeOnActualsHandler(gr);
+    stateChangeOnActualsHandler.processActualDateChanges();
+};
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-07-27 20:28:39&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;ecd672dc9f100300598a5bb0657fcf28&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Update State On Actuals - Projects&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Project Management" source="com.snc.project_management_v3"&gt;c7c742bf6f390200d45331012e3ee496&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_ecd672dc9f100300598a5bb0657fcf28&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-28 18:22:29&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=ecd672dc9f100300598a5bb0657fcf28"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1893241927</payload_hash>
+<remote_update_set display_value="ITBM - Tracked Task rollup">3a79c39adbc2a3006bb976740f9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>7279c39adbc2a3006bb976740f9619a7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675b8ee1300000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<table>planned_task</table>
+<target_name>Update State On Actuals - Projects</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>2bcbac7dfdc62300175fc1e32d301d54</update_guid>
+<update_guid_history>2bcbac7dfdc62300175fc1e32d301d54:1893241927,6fcbac7daec62300dfaa21988fec8751:-1734902572</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_ac5cec7ddbc623006bb976740f961904</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;planned_task&lt;/collection&gt;&lt;condition&gt;current.instanceOf("pm_project") || current.instanceOf("pm_project_task") || current.instanceOf("u_tracked_task")&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="planned_task"&gt;start_dateVALCHANGES^ORparentVALCHANGES^ORdurationVALCHANGES^parentISNOTEMPTY^EQ&lt;item endquery="false" field="start_date" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="false" field="parent" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="duration" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="parent" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Validate Start date for Child Task&lt;/name&gt;&lt;order&gt;101&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[validateStartDate();
+
+function validateStartDate(){	
+	var api = new SNC.PlannedTaskAPI();	
+	
+	var topTask = current.getValue('top_task');
+	if ( current.parent.changes() )
+		topTask = current.parent.top_task;
+	
+	var valid = api.isTaskStartDateValidForProject(topTask, current.getValue('duration'), current.getValue('start_date'));
+	if ( valid == 'false' ) {
+		gs.addErrorMessage(gs.getMessage('Invalid project duration'));
+		current.setAbortAction(true);
+		return;
+	}	
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-11-28 18:24:44&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;ac5cec7ddbc623006bb976740f961904&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Validate Start date for Child Task&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_ac5cec7ddbc623006bb976740f961904&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-28 18:25:15&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=ac5cec7ddbc623006bb976740f961904"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>49365235</payload_hash>
+<remote_update_set display_value="ITBM - Tracked Task rollup">3a79c39adbc2a3006bb976740f9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>7679c39adbc2a3006bb976740f9619a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675b9168030000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<table>planned_task</table>
+<target_name>Validate Start date for Child Task</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>4c7ce4bd62c6230085fa10731653f21d</update_guid>
+<update_guid_history>4c7ce4bd62c6230085fa10731653f21d:49365235,285c68bd9cc623001dd4dde3b26ecce9:-752970112</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_972d6cbddbc623006bb976740f9619db</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;true&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;planned_task&lt;/collection&gt;&lt;condition&gt;(PMPropertiesUtil.isCostRollUp(current.getTableName()) == 'true' ) &amp;amp;&amp;amp; (current.cost.changes() || current.parent.changes() || current.operation() == "delete")&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Planned Task Estimated Cost Rollup&lt;/name&gt;&lt;order&gt;200&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous) {
+	var isProjectOrProjectTask = current.instanceOf('pm_project') || current.instanceOf('pm_project_task') || current.instanceOf('u_tracked_task');
+	if(!isProjectOrProjectTask)
+		return;
+
+	var entityUpdater = new PlannedTaskEntityUpdater();
+
+	if(!current.parent.nil()) {		
+		var parent = new GlideRecord('planned_task');
+		if (parent.get(current.parent))
+			entityUpdater.updatePlannedTaskEstimatedCost(parent);
+	}
+	
+	if(current.parent.changes() &amp;&amp; !previous.parent.nil()) {
+		var prevParent = new GlideRecord('planned_task');
+		if (prevParent.get(previous.parent))
+			entityUpdater.updatePlannedTaskEstimatedCost(prevParent);
+	}
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-11-28 18:28:28&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;972d6cbddbc623006bb976740f9619db&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Planned Task Estimated Cost Rollup&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_972d6cbddbc623006bb976740f9619db&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-28 18:29:15&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=972d6cbddbc623006bb976740f9619db"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>397064258</payload_hash>
+<remote_update_set display_value="ITBM - Tracked Task rollup">3a79c39adbc2a3006bb976740f9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>b279c39adbc2a3006bb976740f9619a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675b9511210000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<table>planned_task</table>
+<target_name>Planned Task Estimated Cost Rollup</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>ee5d64fdc5c62300a4bad2aa40d69b61</update_guid>
+<update_guid_history>ee5d64fdc5c62300a4bad2aa40d69b61:397064258,624d24fdc2c623008aaefc537ebc36cd:-2121900581,132d6cbde8c62300fd196f03723079de:930393557</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_e526473d0b010300acc30e7363673a0e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;planned_task&lt;/collection&gt;&lt;condition&gt;current.instanceOf("pm_project") || current.instanceOf("pm_project_task")&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="planned_task"&gt;start_dateVALCHANGES^ORparentVALCHANGES^ORdurationVALCHANGES^parentISNOTEMPTY^EQ&lt;item endquery="false" field="start_date" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="false" field="parent" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="duration" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="parent" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Validate Start date for Child Task&lt;/name&gt;&lt;order&gt;101&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[validateStartDate();
+
+function validateStartDate(){	
+	var api = new SNC.PlannedTaskAPI();	
+	
+	var topTask = current.getValue('top_task');
+	if ( current.parent.changes() )
+		topTask = current.parent.top_task;
+	
+	var valid = api.isTaskStartDateValidForProject(topTask, current.getValue('duration'), current.getValue('start_date'));
+	if ( valid == 'false' ) {
+		gs.addErrorMessage(gs.getMessage('Invalid project duration'));
+		current.setAbortAction(true);
+		return;
+	}	
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-09-07 20:11:44&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;e526473d0b010300acc30e7363673a0e&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;Validate Start date for Child Task&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Project Management" source="com.snc.project_management_v3"&gt;c7c742bf6f390200d45331012e3ee496&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_e526473d0b010300acc30e7363673a0e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-28 18:24:39&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e526473d0b010300acc30e7363673a0e"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-752970112</payload_hash>
+<remote_update_set display_value="ITBM - Tracked Task rollup">3a79c39adbc2a3006bb976740f9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>be79c39adbc2a3006bb976740f9619a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675b90db700000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<table>planned_task</table>
+<target_name>Validate Start date for Child Task</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>9f4c68bd95c62300da801cb39d8c7a9d</update_guid>
+<update_guid_history>9f4c68bd95c62300da801cb39d8c7a9d:-752970112,5f4ca0bdaec623008e302b6f522b468f:-451210611</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_bce21e3ebf20010032a0854b3f0739fd</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;true&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;false&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;planned_task&lt;/collection&gt;&lt;condition&gt;(PMPropertiesUtil.isCostRollUp(current.getTableName()) == 'true' ) &amp;amp;&amp;amp; (current.work_cost.changes() || current.operation() == "delete")&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="planned_task"&gt;parentISNOTEMPTY^EQ&lt;item endquery="false" field="parent" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Project Actual Cost Rollup&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[calcCost();
+
+function calcCost() {
+	var isProjectOrProjectTask = current.instanceOf('pm_project') || current.instanceOf('pm_project_task');
+	if(!isProjectOrProjectTask)
+		return;
+	
+	var parent = new GlideRecord('planned_task');
+	if (!parent.get(current.parent))
+		return;
+	var childWorkCost = 0;
+	if (gs.getProperty("glide.cost_mgmt.process_task_top_task") != "true" || (current.parent != current.top_task)) {
+		var sibling = new GlideAggregate('planned_task');
+		sibling.addQuery('parent', current.parent);
+		sibling.query();
+		
+		
+		while(sibling.next()){
+			childWorkCost+= parseFloat(sibling.getValue("work_cost"));
+		}
+		
+		if (isNaN(childWorkCost))
+			childWorkCost = 0;
+	}
+	
+	var parentExpenseCost = 0; // default
+	// if we are getting costs from expense lines, include the parent's expenses
+	// just in case
+	// requires the cost management plugin
+	//check for expense table just in case
+	var tu = new TableUtils("fm_expense_line");
+	if (tu.tableExists() &amp;&amp; gs.getProperty("glide.cost_mgmt.calc_actual_cost") == "true") {
+		var exp = new GlideAggregate("fm_expense_line");
+		exp.addQuery("source_table", parent.sys_class_name);
+		exp.addQuery("source_id", current.parent);
+		exp.addQuery("state", "processed");
+		exp.query();
+		while (exp.next())
+			parentExpenseCost+= parseFloat(exp.getValue("amount"));
+		
+		if (isNaN(parentExpenseCost))
+			parentExpenseCost = 0;
+	}
+	var parentUpdate = false;
+	parentChildActual = parseFloat(childWorkCost + parentExpenseCost);
+	// actual cost field
+	if (parent.work_cost != parentChildActual) {
+		parent.work_cost = parentChildActual;
+		parentUpdate = true;
+	}
+	
+	if (parentUpdate)
+		parent.update();
+	
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2013-04-09 05:01:05&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;bce21e3ebf20010032a0854b3f0739fd&lt;/sys_id&gt;&lt;sys_mod_count&gt;21&lt;/sys_mod_count&gt;&lt;sys_name&gt;Project Actual Cost Rollup&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Project Management" source="com.snc.project_management_v3"&gt;c7c742bf6f390200d45331012e3ee496&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_bce21e3ebf20010032a0854b3f0739fd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-28 18:29:46&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=bce21e3ebf20010032a0854b3f0739fd"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1345167212</payload_hash>
+<remote_update_set display_value="ITBM - Tracked Task rollup">3a79c39adbc2a3006bb976740f9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>fa79c39adbc2a3006bb976740f9619a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675b958c6e0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<table>planned_task</table>
+<target_name>Project Actual Cost Rollup</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>d27d60fd1ac62300e985447bf2ff7b2f</update_guid>
+<update_guid_history>d27d60fd1ac62300e985447bf2ff7b2f:1345167212,1a7d60fd7fc623003c000edbd003572c:-222386139</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_8ddb24bddbc623006bb976740f96198f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;planned_task&lt;/collection&gt;&lt;condition&gt;current.instanceOf('pm_project') || current.instanceOf('pm_project_task') || current.instanceOf('u_tracked_task')&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="planned_task"&gt;work_startVALCHANGES^ORwork_endVALCHANGES^EQ&lt;item endquery="false" field="work_start" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="false" field="work_end" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Update State On Actuals - Projects&lt;/name&gt;&lt;order&gt;45&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	var stateUtil = new PlannedTaskStateUtil(current);
+	if ( current.work_start.changes() &amp;&amp; (stateUtil.isStateOpen(current.state) || stateUtil.isStatePending(current.state)) )
+		handleActualDateChange(current);
+	if ( current.work_start.changes() &amp;&amp; JSUtil.nil(current.work_start) )
+		handleActualDateChange(current);
+	if ( current.work_end.changes() &amp;&amp; !stateUtil.isStateInactive(current.state) )
+		handleActualDateChange(current);
+	if ( current.work_end.changes() &amp;&amp; JSUtil.nil(current.work_end) )
+		handleActualDateChange(current);
+})(current, previous);
+
+function handleActualDateChange(gr) {
+	var stateChangeOnActualsHandler = new PlannedTaskStateChangeOnActualsHandler(gr);
+    stateChangeOnActualsHandler.processActualDateChanges();
+}
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-11-28 18:22:35&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;8ddb24bddbc623006bb976740f96198f&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Update State On Actuals - Projects&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_8ddb24bddbc623006bb976740f96198f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-28 18:23:31&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=8ddb24bddbc623006bb976740f96198f"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-817445731</payload_hash>
+<remote_update_set display_value="ITBM - Tracked Task rollup">3a79c39adbc2a3006bb976740f9619a5</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:20</sys_created_on>
+<sys_id>fe79c39adbc2a3006bb976740f9619a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675b8fd4de0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:20</sys_updated_on>
+<table>planned_task</table>
+<target_name>Update State On Actuals - Projects</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>fa0cec7d12c6230059f528a35434d20d</update_guid>
+<update_guid_history>fa0cec7d12c6230059f528a35434d20d:-817445731,09db24bdf3c6230062f8bc016252e092:1893241927</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_13bfb873dbad27406373748e0f96196a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="StartNow Implementation">5a80e5e9510120003dd3e886e577727f</application><assessment/><content_page/><device_type/><filter table="dmn_requirement">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Open Stories</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>dmn_requirement</name><order>544</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>Michael.Ocasio@hhs.gov</sys_created_by><sys_created_on>2018-11-10 04:27:29</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>13bfb873dbad27406373748e0f96196a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Open Requirements</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_13bfb873dbad27406373748e0f96196a</sys_update_name><sys_updated_by>Michael.Ocasio@hhs.gov</sys_updated_by><sys_updated_on>2018-11-10 04:34:12</sys_updated_on><timeline_page/><title>Open Requirements</title><uncancelable>false</uncancelable><view_name>scrum</view_name><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-1976297673</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>3279c39adbc2a3006bb976740f9619a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>166fbe617320000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_requirement</table>
+<target_name>Open Requirements</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>879149b33fad2740c7ba74fcb979b611</update_guid>
+<update_guid_history>879149b33fad2740c7ba74fcb979b611:-1976297673,2810c573c6ad2740f914989c08bc9693:-877938020</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_related_rm_defect_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="rm_defect" version="2" view=""><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Defect - Default view" name="rm_defect" related_list="NULL" sys_domain="global" view="Default view">3d1917c0db8667006373748e0f961923</list_id><order_by/><position>0</position><related_list>rm_task.parent</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:30:13</sys_created_on><sys_id>f11917c0db8667006373748e0f961924</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:30:13</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Defect - Default view" name="rm_defect" related_list="NULL" sys_domain="global" view="Default view">3d1917c0db8667006373748e0f961923</list_id><order_by/><position>1</position><related_list>rm_doc.parent</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:30:13</sys_created_on><sys_id>f51917c0db8667006373748e0f961924</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:30:13</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Defect - Default view" name="rm_defect" related_list="NULL" sys_domain="global" view="Default view">3d1917c0db8667006373748e0f961923</list_id><order_by/><position>2</position><related_list>rm_test.parent</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:30:13</sys_created_on><sys_id>f91917c0db8667006373748e0f961924</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:30:13</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Defect - Default view" name="rm_defect" related_list="NULL" sys_domain="global" view="Default view">3d1917c0db8667006373748e0f961923</list_id><order_by/><position>3</position><related_list>rm_story.defect</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:30:13</sys_created_on><sys_id>fd1917c0db8667006373748e0f961924</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:30:13</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Defect - Default view" name="rm_defect" related_list="NULL" sys_domain="global" view="Default view">3d1917c0db8667006373748e0f961923</list_id><order_by/><position>4</position><related_list>dmn_requirement.parent</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:30:13</sys_created_on><sys_id>f11917c0db8667006373748e0f961925</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:30:13</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Defect - Default view</calculated_name><filter/><name>rm_defect</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:30:13</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3d1917c0db8667006373748e0f961923</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Defect - Default view</sys_name><sys_package display_value="Software Development Lifecycle (SDLC)" source="com.snc.sdlc">0dd80ebf6f390200d45331012e3ee400</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_related_rm_defect_null</sys_update_name><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:30:13</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+<payload_hash>1092019301</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>3a79c39adbc2a3006bb976740f9619a9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>167424405e20000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>rm_defect</table>
+<target_name>Defect</target_name>
+<type>Related Lists</type>
+<update_domain>global</update_domain>
+<update_guid>7d1917c00386670020b0230480ca0926</update_guid>
+<update_guid_history>7d1917c00386670020b0230480ca0926:1092019301,7667db4067866700b931da4381742967:425719461,ee271b409e866700fbaba13e59390825:-749174713,6a965340a0866700622d61daeff16deb:-834546024,96965f0082866700bbe5cbe0606ecd2f:958729701</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_control_c3b95fc0db8667006373748e0f9619f1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control"><sys_ui_list_control action="INSERT_OR_UPDATE"><columns_condition/><edit_condition/><edit_default_filter table="rm_story">productSAMEASproduct^ORproductISEMPTY^EQ<item endquery="false" field="product" goto="false" newquery="false" operator="SAMEAS" or="false" value="product"/><item endquery="false" field="product" goto="false" newquery="false" operator="ISEMPTY" or="true" value=""/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></edit_default_filter><edit_roles/><empty_condition/><filter_condition/><filter_roles/><hierarchical_lists>false</hierarchical_lists><label/><link_condition/><link_roles/><list_edit_insert_row>false</list_edit_insert_row><list_edit_ref_qual_tag/><list_edit_type/><name>dmn_demand</name><new_condition/><new_roles/><omit_columns_if_empty>false</omit_columns_if_empty><omit_drilldown_link>false</omit_drilldown_link><omit_edit_button>false</omit_edit_button><omit_filters>false</omit_filters><omit_if_empty>false</omit_if_empty><omit_links>false</omit_links><omit_new_button>false</omit_new_button><related_list>rm_story.demand</related_list><sys_class_name>sys_ui_list_control</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:33:56</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c3b95fc0db8667006373748e0f9619f1</sys_id><sys_mod_count>1</sys_mod_count><sys_name>dmn_demand</sys_name><sys_overrides display_value="">global</sys_overrides><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_control_c3b95fc0db8667006373748e0f9619f1</sys_update_name><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:39:35</sys_updated_on></sys_ui_list_control></record_update>]]></payload>
+<payload_hash>-72506645</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>3e79c39adbc2a3006bb976740f9619a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>167424c99ab0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>dmn_demand</target_name>
+<type>List Control</type>
+<update_domain>global</update_domain>
+<update_guid>cf3b1344768667003c364f98375c887d</update_guid>
+<update_guid_history>cf3b1344768667003c364f98375c887d:-72506645,dcf9db80868667001c1de926ed56c7ef:-1389152129</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_rm_defect_Scrum</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="rm_defect" version="2" view="Scrum"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="rm_defect" element="NULL" name="rm_defect" parent="NULL" relationship="NULL" sys_domain="global" view="0fc742bf6f390200d45331012e3ee496">31c6ab0cdb8667006373748e0f96195b</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:30:01</sys_created_on><sys_id>f5c6ab0cdb8667006373748e0f96195b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:30:01</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>short_description</element><list_id display_value="rm_defect" element="NULL" name="rm_defect" parent="NULL" relationship="NULL" sys_domain="global" view="0fc742bf6f390200d45331012e3ee496">31c6ab0cdb8667006373748e0f96195b</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:30:01</sys_created_on><sys_id>79c6ab0cdb8667006373748e0f96195b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:30:01</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>priority</element><list_id display_value="rm_defect" element="NULL" name="rm_defect" parent="NULL" relationship="NULL" sys_domain="global" view="0fc742bf6f390200d45331012e3ee496">31c6ab0cdb8667006373748e0f96195b</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:30:01</sys_created_on><sys_id>f9c6ab0cdb8667006373748e0f96195b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:30:01</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>state</element><list_id display_value="rm_defect" element="NULL" name="rm_defect" parent="NULL" relationship="NULL" sys_domain="global" view="0fc742bf6f390200d45331012e3ee496">31c6ab0cdb8667006373748e0f96195b</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:30:01</sys_created_on><sys_id>7dc6ab0cdb8667006373748e0f96195b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:30:01</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>product</element><list_id display_value="rm_defect" element="NULL" name="rm_defect" parent="NULL" relationship="NULL" sys_domain="global" view="0fc742bf6f390200d45331012e3ee496">31c6ab0cdb8667006373748e0f96195b</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:30:01</sys_created_on><sys_id>fdc6ab0cdb8667006373748e0f96195b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:30:01</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>rm_defect</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:30:01</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>31c6ab0cdb8667006373748e0f96195b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>rm_defect</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_rm_defect_Scrum</sys_update_name><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:30:01</sys_updated_on><sys_user/><view display_value="Scrum" name="Scrum">0fc742bf6f390200d45331012e3ee496</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>-337905105</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>7679c39adbc2a3006bb976740f9619a9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>167427ac49b0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>rm_defect</table>
+<target_name>Defect</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>7dc6ab0cb18667006ac18148b953a95d</update_guid>
+<update_guid_history>7dc6ab0cb18667006ac18148b953a95d:-337905105</update_guid_history>
+<update_set display_value=""/>
+<view>Scrum</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_95931134c3732100fd577bfaa2d3ae6f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.AjaxCreateRelatedEntityFromDemand&lt;/api_name&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description&gt;Ajax utility to to create the related entity from a Demand based on the type&lt;/description&gt;&lt;name&gt;AjaxCreateRelatedEntityFromDemand&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var AjaxCreateRelatedEntityFromDemand = Class.create();
+AjaxCreateRelatedEntityFromDemand.prototype =
+Object.extendsObject(AbstractAjaxProcessor, {
+    createProject: function(sys_id, resultAsObject) {
+        sys_id = sys_id || this.getParameter('sysparm_sys_id');
+        var result = (new DemandToProjectCreationHelper()).createProject(sys_id);
+        return this._inExpectedFormat(result, resultAsObject);
+    },
+    
+    createEnhancement: function(demand_id, resultAsObject) {
+        var demand;
+        var enhancement;
+        var enhancementId;
+        var enhancementNumber;
+        var tableDisplayName;
+		
+        if (!GlidePluginManager.isActive("com.snc.sdlc.scrum")) {
+            gs.log("Error creating Enhancement : SDLC - SCRUM plugin is not active");
+            return;
+        }
+        
+        demand = this._getDemand(demand_id || this.getParameter('sysparm_sys_id'));
+        if (!demand) {
+            gs.log("Error creating demand");
+            return;
+        }
+        
+        enhancement = new GlideRecord('rm_enhancement');
+        enhancement.initialize();
+        enhancement.setValue("short_description", demand.short_description);
+        //enhancement.setValue("parent", demand.sys_id);
+		enhancement.setValue('sys_domain', demand.sys_domain);
+		if (!JSUtil.nil(demand.u_product)) enhancement.setValue("product", demand.u_product);
+        enhancementId = enhancement.insert();
+        enhancementNumber = enhancement.getValue('number');
+        tableDisplayName = enhancement.getClassDisplayValue();
+        
+		//Copy any requirements associated with the Demand.
+		var reqGR = new GlideRecord('dmn_requirement');
+		reqGR.addQuery('parent', demand.sys_id);
+		reqGR.query();
+		while (reqGR.next()) {
+			var originalId = reqGR.getUniqueValue();
+			reqGR.setValue('parent', enhancementId);
+			var newNumber = new NumberManager('dmn_requirement');
+			reqGR.setValue('number', newNumber.getNextObjNumberPadded());
+			var newId = reqGR.insert();
+			GlideSysAttachment.copy('dmn_requirement', originalId, 'dmn_requirement', newId);
+		}
+		
+		//Connect the user stories for the Demand to the newly-created Enhancement
+		var storyGR = new GlideRecord('rm_story');
+		storyGR.addQuery('demand', demand.sys_id);
+		storyGR.query();
+		while (storyGR.next()) {
+			storyGR.setValue('enhancement', enhancementId);
+			storyGR.update();
+		}
+        
+        //update demand with enhancement details
+        if(JSUtil.nil(demand.related_records))
+            demand.related_records = enhancementId;
+        else
+            demand.related_records = demand.related_records + "," + enhancementId;
+        
+        demand.enhancement = enhancementId;
+        demand.state = '8';
+        demand.stage = 'enhancement';
+        demand.update();
+        
+        return this._inExpectedFormat({'sys_id': enhancementId, 'number' : enhancementNumber, 'label' : tableDisplayName}, resultAsObject);
+    },
+    
+    createChange: function(demand_id, resultAsObject) {
+        var demand;
+        var change;
+        var changeId;
+        var changeNumber;
+        var tableDisplayName;
+        
+        demand = this._getDemand(demand_id || this.getParameter('sysparm_sys_id'));
+        if (!demand) {
+            gs.log("Error creating demand");
+            return;
+        }
+        
+        change = new GlideRecord('change_request');
+        change.initialize();
+        change.setValue("short_description", demand.short_description);
+        change.setValue("parent", demand.sys_id);
+		change.setValue('sys_domain', demand.sys_domain);
+        changeId = change.insert();
+        changeNumber = change.getValue('number');
+        tableDisplayName = change.getClassDisplayValue();
+        
+        //update demand with change details
+        if(JSUtil.nil(demand.related_records))
+            demand.related_records = changeId;
+        else
+            demand.related_records = demand.related_records + "," + changeId;
+        
+        demand.change = changeId;
+        demand.state = '8';
+        demand.stage = 'change';
+        demand.update();
+        
+        return this._inExpectedFormat({'sys_id': changeId, 'number' : changeNumber, 'label' :tableDisplayName}, resultAsObject);
+    },
+    
+    createDefect: function(demand_id, resultAsObject) {
+        var demand;
+        var defect;
+        var defectId;
+        var defectNumber;
+        var tableDisplayName;
+		
+        if (!GlidePluginManager.isActive("com.snc.sdlc.scrum")) {
+            gs.log("Error creating Defect : SDLC - SCRUM plugin is not active");
+            return;
+        }
+        
+        demand = this._getDemand(demand_id || this.getParameter('sysparm_sys_id'));
+        if (!demand) {
+            gs.log("Error creating demand");
+            return;
+        }
+        
+        defect = new GlideRecord('rm_defect');
+        defect.initialize();
+        defect.setValue("short_description", demand.short_description);
+        defect.setValue("parent", demand.sys_id);
+		defect.setValue('sys_domain', demand.sys_domain);
+		if (!JSUtil.nil(demand.u_product)) defect.setValue('product', demand.u_product);
+        defectId = defect.insert();
+        defectNumber = defect.getValue('number');
+        tableDisplayName = defect.getClassDisplayValue();
+        
+		//Copy any requirements associated with the Demand.
+		var reqGR = new GlideRecord('dmn_requirement');
+		reqGR.addQuery('parent', demand.sys_id);
+		reqGR.query();
+		while (reqGR.next()) {
+			var originalId = reqGR.getUniqueValue();
+			reqGR.setValue('parent', defectId);
+			var newNumber = new NumberManager('dmn_requirement');
+			reqGR.setValue('number', newNumber.getNextObjNumberPadded());
+			var newId = reqGR.insert();
+			GlideSysAttachment.copy('dmn_requirement', originalId, 'dmn_requirement', newId);
+		}
+		
+		//Connect the user stories for the Demand to the newly-created Defect
+		var storyGR = new GlideRecord('rm_story');
+		storyGR.addQuery('demand', demand.sys_id);
+		storyGR.query();
+		while (storyGR.next()) {
+			storyGR.setValue('defect', defectId);
+			storyGR.update();
+		}
+
+        //update demand with defect details
+        if(JSUtil.nil(demand.related_records))
+            demand.related_records = defectId;
+        else
+            demand.related_records = demand.related_records + "," + defectId;
+        
+        demand.defect = defectId;
+        demand.state = '8';
+        demand.stage = 'defect';
+        demand.update();
+        
+        return this._inExpectedFormat({'sys_id': defectId, 'number' : defectNumber, 'label' : tableDisplayName}, resultAsObject);
+    },
+    
+    fetchDemandEntityDetails: function() {
+        var demand = this._getDemand(this.getParameter('sysparm_sys_id'));
+        var demandEntityDetails = {};
+        var choiceGr;
+        var entityType;
+        var response;
+        if (!demand) {
+            gs.log("Error fetching demand with sys_id:"+sys_id);
+            return;
+        }
+        choiceGr = new GlideRecord('sys_choice');
+        choiceGr.addQuery('name', 'dmn_demand');
+        choiceGr.addQuery('element', 'type');
+        choiceGr.query();
+        while(choiceGr.next()){
+            entityType =  choiceGr.getValue('value');
+            demandEntityDetails[entityType] = demand.getValue(entityType);
+        }
+        demandEntityDetails.sys_id = demand.getValue('sys_id');
+        demandEntityDetails.short_description = demand.getValue('short_description');
+        demandEntityDetails.type = demand.getValue('type');
+        demandEntityDetails.label = demand.getDisplayValue('type');
+        response = this._JSONEncode(demandEntityDetails);
+        
+        return response;
+    },
+    
+    _getDemand: function(sys_id) {
+        var demand = new GlideRecord('dmn_demand');
+        if (demand.get(sys_id))
+            return demand;
+        
+        return null;
+    },
+    
+    _inExpectedFormat: function(obj, resultAsObject) {
+        return (resultAsObject) ? obj : this._JSONEncode(obj);
+    },
+    
+    _JSONEncode: function(obj) {
+        return (new JSON()).encode(obj);
+    },
+    
+    type:'AjaxCreateRelatedEntityFromDemand'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2014-10-14 01:03:00&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;95931134c3732100fd577bfaa2d3ae6f&lt;/sys_id&gt;&lt;sys_mod_count&gt;147&lt;/sys_mod_count&gt;&lt;sys_name&gt;AjaxCreateRelatedEntityFromDemand&lt;/sys_name&gt;&lt;sys_package display_value="Demand Management" source="com.snc.demand_management"&gt;db6982ff6f390200d45331012e3ee4de&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_95931134c3732100fd577bfaa2d3ae6f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-23 20:27:35&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>598720569</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>7a79c39adbc2a3006bb976740f9619a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16742419d660000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table/>
+<target_name>AjaxCreateRelatedEntityFromDemand</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>17789b4049866700174b4bafe443406e</update_guid>
+<update_guid_history>17789b4049866700174b4bafe443406e:598720569,6bd39b8cdc466700b1f03320ed263752:2111006137,74e9cb44fc466700acc4d00400a1a0bd:-2022969575,78e9cb44b8466700a53645c469dbc8ba:-927273850</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_12de7c73dbad27406373748e0f961939</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="StartNow Implementation">5a80e5e9510120003dd3e886e577727f</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>dmn_requirement</name><order>542</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>Michael.Ocasio@hhs.gov</sys_created_by><sys_created_on>2018-11-10 04:24:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>12de7c73dbad27406373748e0f961939</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_12de7c73dbad27406373748e0f961939</sys_update_name><sys_updated_by>Michael.Ocasio@hhs.gov</sys_updated_by><sys_updated_on>2018-11-10 04:24:16</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name>Scrum</view_name><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>1617767127</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>7e79c39adbc2a3006bb976740f9619a7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>166fbdcfe170000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_requirement</table>
+<target_name>Create New</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>515fb87380ad274097ecfa2a334ed824</update_guid>
+<update_guid_history>515fb87380ad274097ecfa2a334ed824:1617767127</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_dmn_requirement_dmn_demand_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="dmn_demand" relationship="" sys_domain="global" table="dmn_requirement" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="dmn_requirement" element="NULL" name="dmn_requirement" parent="dmn_demand" relationship="NULL" sys_domain="global" view="Default view">1421ab48db8667006373748e0f961959</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:05:20</sys_created_on><sys_id>9821ab48db8667006373748e0f961959</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:05:20</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>short_description</element><list_id display_value="dmn_requirement" element="NULL" name="dmn_requirement" parent="dmn_demand" relationship="NULL" sys_domain="global" view="Default view">1421ab48db8667006373748e0f961959</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:05:20</sys_created_on><sys_id>1c21ab48db8667006373748e0f961959</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:05:20</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>type</element><list_id display_value="dmn_requirement" element="NULL" name="dmn_requirement" parent="dmn_demand" relationship="NULL" sys_domain="global" view="Default view">1421ab48db8667006373748e0f961959</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:05:20</sys_created_on><sys_id>9c21ab48db8667006373748e0f961959</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:05:20</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>priority</element><list_id display_value="dmn_requirement" element="NULL" name="dmn_requirement" parent="dmn_demand" relationship="NULL" sys_domain="global" view="Default view">1421ab48db8667006373748e0f961959</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:05:20</sys_created_on><sys_id>1021ab48db8667006373748e0f96195a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:05:20</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>state</element><list_id display_value="dmn_requirement" element="NULL" name="dmn_requirement" parent="dmn_demand" relationship="NULL" sys_domain="global" view="Default view">1421ab48db8667006373748e0f961959</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:05:20</sys_created_on><sys_id>9021ab48db8667006373748e0f96195a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:05:20</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>dmn_requirement</name><parent>dmn_demand</parent><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 21:05:20</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1421ab48db8667006373748e0f961959</sys_id><sys_mod_count>0</sys_mod_count><sys_name>dmn_requirement</sys_name><sys_package display_value="Demand Management" source="com.snc.demand_management">db6982ff6f390200d45331012e3ee4de</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_dmn_requirement_dmn_demand_null</sys_update_name><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 21:05:20</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>-2086184440</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>b279c39adbc2a3006bb976740f9619a9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16742642b3a0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_requirement</table>
+<target_name>Demand.Requirement</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>9021ab48e086670081d20ea7ef374c5c</update_guid>
+<update_guid_history>9021ab48e086670081d20ea7ef374c5c:-2086184440,9c21ab48fc866700167e59736258bc56:30835875</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_f02eb073dbad27406373748e0f961976</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="StartNow Implementation">5a80e5e9510120003dd3e886e577727f</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Requirements</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>540</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>Michael.Ocasio@hhs.gov</sys_created_by><sys_created_on>2018-11-10 04:21:14</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>f02eb073dbad27406373748e0f961976</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Requirements</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_f02eb073dbad27406373748e0f961976</sys_update_name><sys_updated_by>Michael.Ocasio@hhs.gov</sys_updated_by><sys_updated_on>2018-11-10 04:21:14</sys_updated_on><timeline_page/><title>Requirements</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-1980805957</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>b679c39adbc2a3006bb976740f9619a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>166fbda38b50000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table/>
+<target_name>Requirements</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>89ae3473b8ad2740b1c0d29646d1e82e</update_guid>
+<update_guid_history>89ae3473b8ad2740b1c0d29646d1e82e:-1980805957</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>rank_configuration_2eb499a39f033200598a5bb0657fcfb9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="rank_configuration"><rank_configuration action="INSERT_OR_UPDATE"><block_size>100000</block_size><column>global_rank</column><last_compressed_value/><last_index>4003100000</last_index><sys_created_by>admin</sys_created_by><sys_created_on>2017-06-05 12:20:17</sys_created_on><sys_domain>global</sys_domain><sys_id>2eb499a39f033200598a5bb0657fcfb9</sys_id><sys_mod_count>31</sys_mod_count><sys_overrides/><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:29:22</sys_updated_on><table>rm_story</table></rank_configuration></record_update>]]></payload>
+<payload_hash>2108748776</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>ba79c39adbc2a3006bb976740f9619a7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16742433d7a0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>rm_story</table>
+<target_name>rm_story</target_name>
+<type>Rank Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>9de8df80068667000d5a686e2719529c</update_guid>
+<update_guid_history>9de8df80068667000d5a686e2719529c:2108748776,6f36db00d98667005c272ccf5e8856e4:-1971389367,b1a55700618667005d8164870c9e3c16:-1540115297,a6ae4b88c446670074b36fe734aeb5b3:-1325286144,e3edcf48874667000849cc9ba79402f0:-1110456991,99cd8f4801466700dc29d4a9ae88065f:-895627838,445a8b84cc4667003980d831c978b41e:-680798685,84aa54004b84eb00f219ba6a15519bf4:-465969532,0003d509d0f7170083d167187ccea26b:-251140379,97221dc5fff71700fbb85ae28965154b:-36311226,4b12ddc594f71700743ea16eb76cef3f:178517927,0ac111c5a2f71700cff0a700cc89e43f:393347080,d14195457df717004e5e66eb98ec14aa:824621150,d7d0558584f71700e57d38957e06e59c:1039450303,99cf8545c6f717000c90b3984cfe5f5b:1254279456,b5fec94581f71700366d11d1832825f8:1469108609,2a7e89cd75b7170011953c674ef9d27e:1683937762,2aedc581ccf7170087985efda2509ba8:1898766915,6d07fcc545b71700b5394112ee65298f:2113596068,75b638c5b6b717003d734f8b70559314:-1966542075,fc55fc454eb71700133108bf70b44585:-1751712922,0fb4f885aeb71700ccc8e44d023fefcd:-1536883769,ca74bc85cdb71700ddb626010fa80f0d:-1105609699,a424f48599b7170056ce9ff42d973fb3:-890780546,3d7374456ab717001ba5b056cd1b07e0:-675951393,cd23744598b7170083afcaa590714380:-461122240,45d2f8c1fdb7170000ea433226d5cd9a:-246293087,b032788137b71700569f72d57869c3c6:-31463934,c2317c0558b71700a47285c06c6ec750:183365219,4c5fe881b3b717003ae7039d7b0b51f7:398194372,d0cd600182771700ca751fdacb354cf5:613023525,d4cd60018b7717002755d622ed4584f4:827852678</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_1482895da9fe3dba0144dbd0967c2301</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="1482895da9fe3dba0144dbd0967c2301" sys_domain="global" table="sys_ui_list_control" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>58dc9784db8667006373748e0f9619ed</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>related_list</element><position>1</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>d8dc9784db8667006373748e0f9619ed</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>label</element><position>2</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>5cdc9784db8667006373748e0f9619ed</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>omit_new_button</element><position>3</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>dcdc9784db8667006373748e0f9619ed</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>omit_edit_button</element><position>4</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>50dc9784db8667006373748e0f9619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>omit_if_empty</element><position>5</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>d0dc9784db8667006373748e0f9619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>omit_columns_if_empty</element><position>6</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>54dc9784db8667006373748e0f9619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>omit_filters</element><position>7</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>d4dc9784db8667006373748e0f9619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>omit_links</element><position>8</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>58dc9784db8667006373748e0f9619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>omit_drilldown_link</element><position>9</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>d8dc9784db8667006373748e0f9619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>hierarchical_lists</element><position>10</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>5cdc9784db8667006373748e0f9619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>11</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>dcdc9784db8667006373748e0f9619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>new_roles</element><position>12</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>50dc9784db8667006373748e0f9619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>edit_roles</element><position>13</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>d0dc9784db8667006373748e0f9619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>filter_roles</element><position>14</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>54dc9784db8667006373748e0f9619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>link_roles</element><position>15</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>d4dc9784db8667006373748e0f9619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>16</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>58dc9784db8667006373748e0f9619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>list_edit_type</element><position>17</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>d8dc9784db8667006373748e0f9619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>list_edit_ref_qual_tag</element><position>18</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>5cdc9784db8667006373748e0f9619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>list_edit_insert_row</element><position>19</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>dcdc9784db8667006373748e0f9619ef</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>new_condition</element><position>20</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>50dc9784db8667006373748e0f9619f0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>edit_condition</element><position>21</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>d0dc9784db8667006373748e0f9619f0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>edit_default_filter</element><position>22</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:46:29</sys_created_on><sys_id>54dc9784db8667006373748e0f9619f0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_ui_list_control" sys_domain="global" view="Default view">1482895da9fe3dba0144dbd0967c2301</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:46:29</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_ui_list_control</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>glide.maint</sys_created_by><sys_created_on>2006-10-04 18:07:49</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1482895da9fe3dba0144dbd0967c2301</sys_id><sys_mod_count>4</sys_mod_count><sys_name>sys_ui_list_control</sys_name><sys_overrides/><sys_package display_value="System (glidesoft)" source="glidesoft">97ea21a26f7142001fd1d15eae3ee48d</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_1482895da9fe3dba0144dbd0967c2301</sys_update_name><sys_updated_by>glide.maint</sys_updated_by><sys_updated_on>2007-06-05 18:06:17</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-2045177011</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>be79c39adbc2a3006bb976740f9619a9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1674252eb670000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>sys_ui_list_control</table>
+<target_name>List Control</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>10dc9784dd866700496f69f681dab3f4</update_guid>
+<update_guid_history>10dc9784dd866700496f69f681dab3f4:-2045177011,44bc178455866700bea509b00be772d7:1923362565,c3b95fc0a1866700367638507ef76acc:-2045177011,1cd72d71465d27007625775a794cbb99:93351357,14d72d71ba5d2700f5fccc8b0276648e:-1396144663</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_56b08db3dbad27406373748e0f96195c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="StartNow Implementation">5a80e5e9510120003dd3e886e577727f</application><assessment/><content_page/><device_type/><filter/><hint>Used to see current requirements</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>My Tasks</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>dmn_requirement</name><order>546</order><override_menu_roles>false</override_menu_roles><query>&amp;sysparm_fixed_query=assigned_to=javascript:getMyAssignments()</query><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>Michael.Ocasio@hhs.gov</sys_created_by><sys_created_on>2018-11-10 04:32:22</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>56b08db3dbad27406373748e0f96195c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Tasks</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_56b08db3dbad27406373748e0f96195c</sys_update_name><sys_updated_by>Michael.Ocasio@hhs.gov</sys_updated_by><sys_updated_on>2018-11-10 04:32:22</sys_updated_on><timeline_page/><title>My Tasks</title><uncancelable>false</uncancelable><view_name>Scrum</view_name><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-1628220262</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>f279c39adbc2a3006bb976740f9619a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>166fbe469970000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_requirement</table>
+<target_name>My Tasks</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>4c31c1f3f2ad2740116916858da7db01</update_guid>
+<update_guid_history>4c31c1f3f2ad2740116916858da7db01:-1628220262</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_related_rm_enhancement_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="rm_enhancement" version="2" view=""><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Enhancement - Default view" name="rm_enhancement" related_list="NULL" sys_domain="global" view="Default view">86459fccdb4667006373748e0f9619c1</list_id><order_by/><position>0</position><related_list>rm_task.parent</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:13:35</sys_created_on><sys_id>42459fccdb4667006373748e0f9619c2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:13:35</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Enhancement - Default view" name="rm_enhancement" related_list="NULL" sys_domain="global" view="Default view">86459fccdb4667006373748e0f9619c1</list_id><order_by/><position>1</position><related_list>rm_doc.parent</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:13:35</sys_created_on><sys_id>4a459fccdb4667006373748e0f9619c2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:13:35</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Enhancement - Default view" name="rm_enhancement" related_list="NULL" sys_domain="global" view="Default view">86459fccdb4667006373748e0f9619c1</list_id><order_by/><position>2</position><related_list>rm_test.parent</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:13:35</sys_created_on><sys_id>4e459fccdb4667006373748e0f9619c2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:13:35</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Enhancement - Default view" name="rm_enhancement" related_list="NULL" sys_domain="global" view="Default view">86459fccdb4667006373748e0f9619c1</list_id><order_by/><position>3</position><related_list>rm_story.enhancement</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:13:35</sys_created_on><sys_id>42459fccdb4667006373748e0f9619c3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:13:35</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Enhancement - Default view" name="rm_enhancement" related_list="NULL" sys_domain="global" view="Default view">86459fccdb4667006373748e0f9619c1</list_id><order_by/><position>4</position><related_list>dmn_requirement.parent</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:13:35</sys_created_on><sys_id>46459fccdb4667006373748e0f9619c3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:13:35</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Enhancement - Default view</calculated_name><filter/><name>rm_enhancement</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-23 20:13:35</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>86459fccdb4667006373748e0f9619c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Enhancement - Default view</sys_name><sys_package display_value="SDLC - Scrum Process Pack" source="com.snc.sdlc.scrum.pp">dbb88abf6f390200d45331012e3ee4f0</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_related_rm_enhancement_null</sys_update_name><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-23 20:13:35</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+<payload_hash>-1967411477</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>fa79c39adbc2a3006bb976740f9619a9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1674234ca810000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>rm_enhancement</table>
+<target_name>Enhancement</target_name>
+<type>Related Lists</type>
+<update_domain>global</update_domain>
+<update_guid>de459fccfd4667004b516c7a2f0fadc4</update_guid>
+<update_guid_history>de459fccfd4667004b516c7a2f0fadc4:-1967411477,8caac3c490466700c174b07c80b5e3d7:-627811059,bf9acf04c746670016746e10b4c4d605:-1968098854</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_control_de384f7e1b12110040f8bfca9f071374</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control"><sys_ui_list_control action="INSERT_OR_UPDATE"><columns_condition/><edit_condition/><edit_default_filter/><edit_roles/><empty_condition/><filter_condition/><filter_roles/><hierarchical_lists>false</hierarchical_lists><label/><link_condition/><link_roles/><list_edit_insert_row>false</list_edit_insert_row><list_edit_ref_qual_tag/><list_edit_type/><name>dmn_demand</name><new_condition/><new_roles/><omit_columns_if_empty>false</omit_columns_if_empty><omit_drilldown_link>false</omit_drilldown_link><omit_edit_button>false</omit_edit_button><omit_filters>false</omit_filters><omit_if_empty>false</omit_if_empty><omit_links>false</omit_links><omit_new_button>false</omit_new_button><related_list>dmn_requirement.parent</related_list><sys_class_name>sys_ui_list_control</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2014-01-20 04:55:12</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>de384f7e1b12110040f8bfca9f071374</sys_id><sys_mod_count>1</sys_mod_count><sys_name>dmn_demand</sys_name><sys_overrides display_value="">global</sys_overrides><sys_package display_value="Demand Management" source="com.snc.demand_management">db6982ff6f390200d45331012e3ee4de</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_control_de384f7e1b12110040f8bfca9f071374</sys_update_name><sys_updated_by>Michael.Ocasio@hhs.gov</sys_updated_by><sys_updated_on>2018-11-13 02:43:47</sys_updated_on></sys_ui_list_control></record_update>]]></payload>
+<payload_hash>546097296</payload_hash>
+<remote_update_set display_value="ITBM - Requirement">b679c39adbc2a3006bb976740f9619a7</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>fe79c39adbc2a3006bb976740f9619a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1670af416870000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>dmn_demand</target_name>
+<type>List Control</type>
+<update_domain>global</update_domain>
+<update_guid>3a15083c3a7d6740b35d2e6a4579fc1b</update_guid>
+<update_guid_history>3a15083c3a7d6740b35d2e6a4579fc1b:546097296,3215083c897d6740a4fa6b0eb95b0f1a:-2073635297</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_dmn_demand_u_tech_prop_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation action="DELETE" element="u_tech_prop" label="Technology Proposal" language="en" table="dmn_demand"><sys_documentation action="DELETE"><element>u_tech_prop</element><help/><hint/><label>Technology Proposal</label><language>en</language><name>dmn_demand</name><plural>Technology Proposals</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 19:17:46</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>23cc3ed9db3757006bb976740f96190a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Technology Proposal</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_dmn_demand_u_tech_prop_en</sys_update_name><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-07 19:17:46</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1813528025</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>3279c39adbc2a3006bb976740f9619ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a9d81350000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Demand.u_tech_prop</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>e17f2f29a9062300f46636f5012f5d0d</update_guid>
+<update_guid_history>e17f2f29a9062300f46636f5012f5d0d:1813528025,73cc3ed9503757000af9d6396f99cc10:948520073</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_e15ffa5ddb3757006bb976740f9619e4</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="DELETE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="dmn_demand"&gt;type=tech_prop^u_tech_propISNOTEMPTY^EQ&lt;item endquery="false" field="type" goto="false" newquery="false" operator="=" or="false" value="tech_prop"/&gt;&lt;item endquery="false" field="u_tech_prop" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;true&lt;/inherit&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Make Technology Proposal Visible If  exists&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-07 19:28:49&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;e15ffa5ddb3757006bb976740f9619e4&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Make Technology Proposal Visible If  exists&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_e15ffa5ddb3757006bb976740f9619e4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-08-07 19:29:27&lt;/sys_updated_on&gt;&lt;table&gt;dmn_demand&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>49201376</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>3a79c39adbc2a3006bb976740f9619ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a79579f0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Make Technology Proposal Visible If  exists</target_name>
+<type>UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>8366ab217206230079ecb05179bdc0a9</update_guid>
+<update_guid_history>8366ab217206230079ecb05179bdc0a9:49201376,0b7f3a5def3757001d5c0f214b6755cd:457095764,795ffa5dba3757005489d9ca262441e5:660591524</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_fb7ebe1ddb3757006bb976740f9619f2</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="DELETE"&gt;&lt;action_name/&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;comments/&gt;&lt;condition&gt;gs.hasRole('demand_manager') &amp;amp;&amp;amp; (current.type == 'vendor'  &amp;amp;&amp;amp; current.u_vendor.nil())&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;false&lt;/form_button&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;true&lt;/form_link&gt;&lt;form_style/&gt;&lt;hint/&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;name&gt;Create Vendor Agreement&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[if( current.type == 'vendor' ){
+	var resultAsObject = true;
+	var demandUtil = new AjaxCreateUserDefinedRelatedEntityFromDemand();
+	var vObj = demandUtil.createVendorAgreement(current.sys_id, resultAsObject);
+	var vId = vObj.sys_id;
+	var number = vObj.number;
+	var displayLabel = vObj.label;
+	var v;
+	var message;
+	var link;  
+	
+	if (vId) {
+		v = new GlideRecord('task');
+		v.addQuery("sys_id", vId);
+		v.query();
+		
+		if(v.next()){
+			link = ' &lt;a href ="/task.do?sysparm_query=number%3D' + number + '"&gt;'+ number +'&lt;/a&gt;';
+			message = gs.getMessage("{0} {1} has been created");
+			message = message.replace("{0}", displayLabel);
+			message = message.replace("{1}", link);
+			gs.addInfoMessage(message);
+		}
+	} else {
+		message = gs.getMessage("Error creating {0}");
+		message = message.replace("{0}", displayLabel);
+		gs.addErrorMessage(message);
+	}
+	action.setRedirectURL(current);
+}]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-07 19:25:09&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;fb7ebe1ddb3757006bb976740f9619f2&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Create Vendor Agreement&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_fb7ebe1ddb3757006bb976740f9619f2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-08-07 19:26:55&lt;/sys_updated_on&gt;&lt;table&gt;dmn_demand&lt;/table&gt;&lt;ui11_compatible&gt;false&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1755848863</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>3e79c39adbc2a3006bb976740f9619ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a728cd00000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Create Vendor Agreement</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>5ab4e3edf0c22300781b7ba986d99a41</update_guid>
+<update_guid_history>5ab4e3edf0c22300781b7ba986d99a41:-1755848863,69ee725d2337570054660de467a71439:-593629587,bf7ebe1dbc37570081dc38240062bff3:1148206165</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_8beff29ddb3757006bb976740f96198c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="DELETE"><disabled>ignore</disabled><field>u_vendor</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 19:31:31</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>8beff29ddb3757006bb976740f96198c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_vendor</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_policy_action_8beff29ddb3757006bb976740f96198c</sys_update_name><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-07 19:31:31</sys_updated_on><table>dmn_demand</table><ui_policy display_value="">5dbffa5ddb3757006bb976740f9619eb</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+<payload_hash>720531455</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>7679c39adbc2a3006bb976740f9619ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a79cdac0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>u_vendor</target_name>
+<type>UI Policy Action</type>
+<update_domain>global</update_domain>
+<update_guid>5686efed30c223000f1d6f8121707540</update_guid>
+<update_guid_history>5686efed30c223000f1d6f8121707540:720531455,4dfff29dc23757002eb4bccc464263dc:60386022</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_action_ee4dfed9db3757006bb976740f961956</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="DELETE"&gt;&lt;action_name/&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;comments/&gt;&lt;condition&gt;gs.hasRole('demand_manager') &amp;amp;&amp;amp; (current.type == 'tech_prop'  &amp;amp;&amp;amp; current.u_tech_prop.nil())&lt;/condition&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;false&lt;/form_button&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;true&lt;/form_link&gt;&lt;form_style/&gt;&lt;hint/&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style/&gt;&lt;name&gt;Create Technology Proposal&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[if( current.type == 'tech_prop' ){
+	var resultAsObject = true;
+	var demandUtil = new AjaxCreateUserDefinedRelatedEntityFromDemand();
+	var tpObj = demandUtil.createTechnologyProposal(current.sys_id, resultAsObject);
+	var tpId = tpObj.sys_id;
+	var number = tpObj.number;
+	var displayLabel = tpObj.label;
+	var tp;
+	var message;
+	var link;  
+	
+	if (tpId) {
+		tp = new GlideRecord('task');
+		tp.addQuery("sys_id", tpId);
+		tp.query();
+		
+		if(tp.next()){
+			link = ' &lt;a href ="/task.do?sysparm_query=number%3D' + number + '"&gt;'+ number +'&lt;/a&gt;';
+			message = gs.getMessage("{0} {1} has been created");
+			message = message.replace("{0}", displayLabel);
+			message = message.replace("{1}", link);
+			gs.addInfoMessage(message);
+		}
+	} else {
+		message = gs.getMessage("Error creating {0}");
+		message = message.replace("{0}", displayLabel);
+		gs.addErrorMessage(message);
+	}
+	action.setRedirectURL(current);
+}]]&gt;&lt;/script&gt;&lt;show_insert&gt;false&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-07 19:19:52&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;ee4dfed9db3757006bb976740f961956&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Create Technology Proposal&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_ee4dfed9db3757006bb976740f961956&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-08-07 19:24:47&lt;/sys_updated_on&gt;&lt;table&gt;dmn_demand&lt;/table&gt;&lt;ui11_compatible&gt;false&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1594165833</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>7a79c39adbc2a3006bb976740f9619ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a728c7e0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Create Technology Proposal</target_name>
+<type>UI Action</type>
+<update_domain>global</update_domain>
+<update_guid>5ab4e3ed1bc22300a119bc80e686363b</update_guid>
+<update_guid_history>5ab4e3ed1bc22300a119bc80e686363b:1594165833,926e721da63757008fad5311547db69b:1148206165,faddbad979375700afc8151e2617b8bb:-1124128843,a64dfed9623757005a84a45305107b58:939020393</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_dmn_demand_u_vendor</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="DELETE" element="u_vendor" table="dmn_demand"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;readonly_clickthrough=true&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Vendor Agreement&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_vendor&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;name&gt;dmn_demand&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;true&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="Task" name="task"&gt;task&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-07 19:19:03&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;d5dc7ed9db3757006bb976740f961959&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Vendor Agreement&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_dmn_demand_u_vendor&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-08-07 19:45:45&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_model_id/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>65207252</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>7e79c39adbc2a3006bb976740f9619aa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a9db4060000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Demand.u_vendor</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>388f6f29850623009e50e7bfc3b4019e</update_guid>
+<update_guid_history>388f6f29850623009e50e7bfc3b4019e:65207252,2d334351f4775700859af1cf961b5f30:-2011485132,a61d321d9a3757002db4daa14847387c:92426046</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_action_488f7e5ddb3757006bb976740f9619d6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="DELETE"><disabled>ignore</disabled><field>u_tech_prop</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 19:29:49</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>488f7e5ddb3757006bb976740f9619d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_tech_prop</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_policy_action_488f7e5ddb3757006bb976740f9619d6</sys_update_name><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-07 19:29:49</sys_updated_on><table>dmn_demand</table><ui_policy display_value="">e15ffa5ddb3757006bb976740f9619e4</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+<payload_hash>-1728827777</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>b279c39adbc2a3006bb976740f9619ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a79577c0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>u_tech_prop</target_name>
+<type>UI Policy Action</type>
+<update_domain>global</update_domain>
+<update_guid>c766ab21ce06230061e4e387846994a6</update_guid>
+<update_guid_history>c766ab21ce06230061e4e387846994a6:-1728827777,cc9ff65d4b375700131c488aa2b49840:-1343815236</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_807e3955dbb357006bb976740f961916</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.AjaxCreateUserDefinedRelatedEntityFromDemand&lt;/api_name&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description&gt;Ajax utility to to create a related entity from a Demand based on the user-defined type. This script extends the vendor-provided Demand Management utility script.&lt;/description&gt;&lt;name&gt;AjaxCreateUserDefinedRelatedEntityFromDemand&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var AjaxCreateUserDefinedRelatedEntityFromDemand = Class.create();
+AjaxCreateUserDefinedRelatedEntityFromDemand.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+    createTrackedTask: function(demand_id, resultAsObject) {
+        var demand;
+        var trackedTask;
+        var trackedTaskId;
+        var trackedTaskNumber;
+        var tableDisplayName;
+		
+        demand = this._getDemand(demand_id || this.getParameter('sysparm_sys_id'));
+        if (!demand) {
+            gs.log("Error retrieving demand");
+            return;
+        }
+        
+        trackedTask = new GlideRecord('u_tracked_task');
+        trackedTask.initialize();
+        trackedTask.setValue("short_description", demand.short_description);
+		trackedTask.setValue('sys_domain', demand.sys_domain);
+        trackedTaskId = trackedTask.insert();
+        trackedTaskNumber = trackedTask.getValue('number');
+        tableDisplayName = trackedTask.getClassDisplayValue();
+        
+        //update demand with task details
+        if(JSUtil.nil(demand.related_records))
+            demand.related_records = trackedTaskId;
+        else
+            demand.related_records = demand.related_records + "," + trackedTaskId;
+        
+        demand.u_task = trackedTaskId;
+        demand.state = '8';
+        demand.stage = 'task';
+        demand.update();
+        
+        return this._inExpectedFormat({'sys_id': trackedTaskId, 'number' : trackedTaskNumber, 'label' : tableDisplayName}, resultAsObject);
+    },
+    
+	createCustomerServiceRequest: function(demand_id, resultAsObject) {
+        var demand;
+        var csr;
+        var csrId;
+        var csrNumber;
+        var tableDisplayName;
+        
+        demand = this._getDemand(demand_id || this.getParameter('sysparm_sys_id'));
+        if (!demand) {
+            gs.log("Error creating demand");
+            return;
+        }
+        
+        csr = new GlideRecord('task');
+        csr.initialize();
+        csr.setValue("short_description", demand.short_description);
+        csr.setValue("parent", demand.sys_id);
+		csr.setValue('sys_domain', demand.sys_domain);
+        csrId = csr.insert();
+        csrNumber = csr.getValue('number');
+        tableDisplayName = csr.getClassDisplayValue();
+        
+        //update demand with csr details
+        if(JSUtil.nil(demand.related_records))
+            demand.related_records = csrId;
+        else
+            demand.related_records = demand.related_records + "," + csrId;
+        
+        demand.u_csr = csrId;
+        demand.state = '8';
+        demand.stage = 'csr';
+        demand.update();
+        
+        return this._inExpectedFormat({'sys_id': csrId, 'number' : csrNumber, 'label' :tableDisplayName}, resultAsObject);
+    },
+    
+    fetchDemandEntityDetails: function() {
+        var demand = this._getDemand(this.getParameter('sysparm_sys_id'));
+        var demandEntityDetails = {};
+        var choiceGr;
+        var entityType;
+        var response;
+        if (!demand) {
+            gs.log("Error fetching demand with sys_id:"+sys_id);
+            return;
+        }
+        choiceGr = new GlideRecord('sys_choice');
+        choiceGr.addQuery('name', 'dmn_demand');
+        choiceGr.addQuery('element', 'type');
+        choiceGr.query();
+        while(choiceGr.next()){
+            entityType =  choiceGr.getValue('value');
+            demandEntityDetails[entityType] = demand.getValue(entityType);
+        }
+        demandEntityDetails.sys_id = demand.getValue('sys_id');
+        demandEntityDetails.short_description = demand.getValue('short_description');
+        demandEntityDetails.type = demand.getValue('type');
+        demandEntityDetails.label = demand.getDisplayValue('type');
+        response = this._JSONEncode(demandEntityDetails);
+        
+        return response;
+    },
+    
+    _getDemand: function(sys_id) {
+        var demand = new GlideRecord('dmn_demand');
+        if (demand.get(sys_id))
+            return demand;
+        
+        return null;
+    },
+    
+    _inExpectedFormat: function(obj, resultAsObject) {
+        return (resultAsObject) ? obj : this._JSONEncode(obj);
+    },
+    
+    _JSONEncode: function(obj) {
+        return (new JSON()).encode(obj);
+    },
+
+    type: 'AjaxCreateUserDefinedRelatedEntityFromDemand'
+});]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-07 14:49:59&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;807e3955dbb357006bb976740f961916&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;AjaxCreateUserDefinedRelatedEntityFromDemand&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_807e3955dbb357006bb976740f961916&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-11-28 13:53:11&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-334244864</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>b679c39adbc2a3006bb976740f9619ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a9853870000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table/>
+<target_name>AjaxCreateUserDefinedRelatedEntityFromDemand</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>722eaba5370623002e4a297537c11dd7</update_guid>
+<update_guid_history>722eaba5370623002e4a297537c11dd7:-334244864,0804b937a744270012d29c8632b8d022:-620554087,197cf6d943375700e52005fb5258bd90:1452515791,098f71550bb357001ad5571083166e7a:1831545245</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_dmn_demand_u_tech_prop</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="DELETE" element="u_tech_prop" table="dmn_demand"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;readonly_clickthrough=true&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Technology Proposal&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_tech_prop&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Reference"&gt;reference&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;32&lt;/max_length&gt;&lt;name&gt;dmn_demand&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;true&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="Task" name="task"&gt;task&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-07 19:17:45&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;a18c7ad9db3757006bb976740f96192e&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Technology Proposal&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_dmn_demand_u_tech_prop&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-08-07 19:45:27&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_model_id/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1151558864</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>ba79c39adbc2a3006bb976740f9619aa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a9d836f0000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Demand.u_tech_prop</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>f57f2f29a60623002075dbfeda719318</update_guid>
+<update_guid_history>f57f2f29a60623002075dbfeda719318:1151558864,d1238f115e775700b2f21d82920ebde3:-349000776,fbcc3ed901375700ef9fe8ecb5cfbd0e:1019874926</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_ca02a93f8f21110040f82ab2f0f923b1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Notes" section_id="ca02a93f8f21110040f82ab2f0f923b1" sys_domain="global" table="dmn_demand" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>watch_list</element><position>0</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:58:07</sys_created_on><sys_id>7a4f6729db0623006bb976740f9619a2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Notes" display_value="Notes" name="dmn_demand" sys_domain="global" view="Default view">ca02a93f8f21110040f82ab2f0f923b1</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:58:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:58:07</sys_created_on><sys_id>fa4f6729db0623006bb976740f9619a2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Notes" display_value="Notes" name="dmn_demand" sys_domain="global" view="Default view">ca02a93f8f21110040f82ab2f0f923b1</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:58:07</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes_list</element><position>2</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:58:07</sys_created_on><sys_id>7e4f6729db0623006bb976740f9619a2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Notes" display_value="Notes" name="dmn_demand" sys_domain="global" view="Default view">ca02a93f8f21110040f82ab2f0f923b1</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:58:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>3</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:58:07</sys_created_on><sys_id>fe4f6729db0623006bb976740f9619a2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Notes" display_value="Notes" name="dmn_demand" sys_domain="global" view="Default view">ca02a93f8f21110040f82ab2f0f923b1</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:58:07</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>4</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:58:07</sys_created_on><sys_id>724f6729db0623006bb976740f9619a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Notes" display_value="Notes" name="dmn_demand" sys_domain="global" view="Default view">ca02a93f8f21110040f82ab2f0f923b1</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:58:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>5</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:58:07</sys_created_on><sys_id>f24f6729db0623006bb976740f9619a3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Notes" display_value="Notes" name="dmn_demand" sys_domain="global" view="Default view">ca02a93f8f21110040f82ab2f0f923b1</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:58:07</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Notes</caption><header>false</header><name>dmn_demand</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2013-12-16 17:15:29</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ca02a93f8f21110040f82ab2f0f923b1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Notes</sys_name><sys_overrides/><sys_package display_value="Demand Management" source="com.snc.demand_management">db6982ff6f390200d45331012e3ee4de</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_ca02a93f8f21110040f82ab2f0f923b1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2013-12-16 17:15:29</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>895010275</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>be79c39adbc2a3006bb976740f9619ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a9cd5c30000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Demand</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>be4f6729a40623007ec846012db937a4</update_guid>
+<update_guid_history>be4f6729a40623007ec846012db937a4:895010275,ba4f67299d062300c21fe4c978e181a0:895010275</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_dmn_demand_u_vendor_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation action="DELETE" element="u_vendor" label="Vendor Agreement" language="en" table="dmn_demand"><sys_documentation action="DELETE"><element>u_vendor</element><help/><hint/><label>Vendor Agreement</label><language>en</language><name>dmn_demand</name><plural>Vendor Agreements</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 19:19:03</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>ea1d321ddb3757006bb976740f961977</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vendor Agreement</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_dmn_demand_u_vendor_en</sys_update_name><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-07 19:19:03</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-569254003</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>f279c39adbc2a3006bb976740f9619ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a9db1a40000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Demand.u_vendor</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>a48f6f29b4062300bb75ec70c3cb9293</update_guid>
+<update_guid_history>a48f6f29b4062300bb75ec70c3cb9293:-569254003,aa1d321dcf375700a28637fa46aa997d:-1832127811</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_choice_dmn_demand_type</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="type" table="dmn_demand" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value>operational</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Change</label><language>en</language><name>dmn_demand</name><sequence>1</sequence><sys_created_by>system</sys_created_by><sys_created_on>2014-10-17 22:38:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cef85542c3332100b0449f2974d3ae8c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2014-10-17 22:38:56</sys_updated_on><value>change</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value>Infrastructure</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Customer Service Request</label><language>en</language><name>dmn_demand</name><sequence>1</sequence><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 14:36:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ce6c35d1dbb357006bb976740f961921</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-07 14:36:48</sys_updated_on><value>csr</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value>strategic</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Enhancement</label><language>en</language><name>dmn_demand</name><sequence>1</sequence><sys_created_by>system</sys_created_by><sys_created_on>2014-10-17 22:38:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>42f85542c3332100b0449f2974d3ae8d</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-03-06 05:46:12</sys_updated_on><value>enhancement</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value>Product</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Project</label><language>en</language><name>dmn_demand</name><sequence>1</sequence><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 14:33:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fbabf9d1dbb357006bb976740f961918</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-07 14:33:37</sys_updated_on><value>project</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value>operational</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Defect</label><language>en</language><name>dmn_demand</name><sequence>2</sequence><sys_created_by>system</sys_created_by><sys_created_on>2014-10-17 22:38:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>02f85542c3332100b0449f2974d3ae8d</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-03-06 05:46:03</sys_updated_on><value>defect</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value>strategic</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Project</label><language>en</language><name>dmn_demand</name><sequence>2</sequence><sys_created_by>system</sys_created_by><sys_created_on>2014-10-17 22:38:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>82f85542c3332100b0449f2974d3ae8d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2014-10-17 22:38:56</sys_updated_on><value>project</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value>Infrastructure</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Project</label><language>en</language><name>dmn_demand</name><sequence>2</sequence><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 14:37:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c68cf9d1dbb357006bb976740f96191f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-07 14:37:16</sys_updated_on><value>project</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value>Product</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Tracked Task</label><language>en</language><name>dmn_demand</name><sequence>2</sequence><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 14:34:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9bcbb9d1dbb357006bb976740f961992</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-27 18:49:31</sys_updated_on><value>task</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value>Infrastructure</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Change Request</label><language>en</language><name>dmn_demand</name><sequence>3</sequence><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 19:03:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9d79b619db3757006bb976740f96196b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-07 19:03:37</sys_updated_on><value>change</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value>Product</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Enhancement</label><language>en</language><name>dmn_demand</name><sequence>3</sequence><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 14:34:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>66eb75d1dbb357006bb976740f9619d4</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-07 14:34:34</sys_updated_on><value>enhancement</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value>Product</dependent_value><element>type</element><hint/><inactive>false</inactive><label>Defect</label><language>en</language><name>dmn_demand</name><sequence>4</sequence><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-08-07 14:35:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>281cb9d1dbb357006bb976740f961973</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-08-07 14:35:11</sys_updated_on><value>defect</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>type</element><name>dmn_demand</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2017-03-03 07:14:15</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>57abbe63db4513009a3670131f961932</sys_id><sys_mod_count>0</sys_mod_count><sys_name>type</sys_name><sys_package display_value="Demand Management" source="com.snc.demand_management">db6982ff6f390200d45331012e3ee4de</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_choice_dmn_demand_type</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2017-03-03 07:14:15</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+<payload_hash>1173559879</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>f679c39adbc2a3006bb976740f9619aa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a7111e00000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Demand.Type</target_name>
+<type>Choice list</type>
+<update_domain>global</update_domain>
+<update_guid>6a546fad5fc22300919ad239b1afb7ae</update_guid>
+<update_guid_history>6a546fad5fc22300919ad239b1afb7ae:1173559879,6a546fad3bc22300c8198a0f6ed6eba8:781755873,f426b1f7b84427001dae57e37fa0a038:949016790,8a266d3b0c042700c404686871b57b74:-1894167824,492ebe1dc937570025dc3b48caad1de2:-1028145812,a49976597e375700d8c29e25946f8690:1744957568,369c711547b357003b77e48ed9149459:1819033097,4c8cb11524b3570023cdb3b582572026:832567210,ef5c39d1a8b35700fad4a6f859de181d:1023823250,f44c3dd13fb357008b415d4cfda57dbd:-579177827,982c3dd1c5b357002afbec85ce6ce9b2:-553104757,53fb35d180b357007af2da98a953fda0:-147216884,dbdb3dd1e2b35700471fbc9211a1c3ab:-1809642630,69cbb9d157b357001f37fb2dee5f7aa4:1043788497,e9cbb9d104b35700fc649075a6343ba1:18727073</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_8b23fa598f11110040f82ab2f0f923bb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="8b23fa598f11110040f82ab2f0f923bb" sys_domain="global" table="dmn_demand" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>process_flow.xml</element><position>0</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>543fa729db0623006bb976740f9619fc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Process Flow">f77eeb218f51110040f82ab2f0f92372</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>1</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>5c3fa729db0623006bb976740f9619fc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>2</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>dc3fa729db0623006bb976740f9619fc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_project_acronym</element><position>3</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>503fa729db0623006bb976740f9619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>category</element><position>4</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>d03fa729db0623006bb976740f9619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type</element><position>5</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>543fa729db0623006bb976740f9619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>defect</element><position>6</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>d43fa729db0623006bb976740f9619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>project</element><position>7</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>583fa729db0623006bb976740f9619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_task</element><position>8</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>d83fa729db0623006bb976740f9619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>enhancement</element><position>9</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>5c3fa729db0623006bb976740f9619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>change</element><position>10</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>dc3fa729db0623006bb976740f9619fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_csr</element><position>11</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>503fa729db0623006bb976740f9619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>12</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>d03fa729db0623006bb976740f9619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>13</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>543fa729db0623006bb976740f9619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>start_date</element><position>14</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>d43fa729db0623006bb976740f9619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>requested_by</element><position>15</position><sys_created_by>Keith.Tucker@hhs.gov</sys_created_by><sys_created_on>2018-11-28 13:57:39</sys_created_on><sys_id>583fa729db0623006bb976740f9619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="dmn_demand" sys_domain="global" view="Default view">8b23fa598f11110040f82ab2f0f923bb</sys_ui_section><sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by><sys_updated_on>2018-11-28 13:57:39</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>dmn_demand</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2013-11-26 18:29:29</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8b23fa598f11110040f82ab2f0f923bb</sys_id><sys_mod_count>3</sys_mod_count><sys_name>dmn_demand</sys_name><sys_overrides/><sys_package display_value="Demand Management" source="com.snc.demand_management">db6982ff6f390200d45331012e3ee4de</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_8b23fa598f11110040f82ab2f0f923bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2014-09-25 18:33:26</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1335802901</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>fa79c39adbc2a3006bb976740f9619ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a9c6b750000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Demand</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>183fe7295b06230049dcc318ade89701</update_guid>
+<update_guid_history>183fe7295b06230049dcc318ade89701:1335802901,5966938786b75b00163e71ab3ae088b9:207885066,0623130794b75b0023b825bbcd0a3e6a:347256169,e6f117c3adb75b006a84cecd040d1aba:1783048974,4b01db83b5b75b004f4e8796a6869580:-1641579706,196f474381b75b003af4b6ac8fbcaab3:-946020697,86fecf03e0b75b008c3a4f4b5fdee86e:-110978750,96bc478ff0775b00fb5b72e649be0c53:-946020697,b7fa6d8a4ab3d7009a28457bea912ac1:-99252705,1283875170775700052f09ed81964794:317738884,ea1d321db2375700773b36fa2dccbe76:1332605086,23cc3ed93f375700f75a74b9b2d23f09:449709,d2224ad54cb35700073382850c4441fa:-563334307,def00e953cb3570008cdcf35bf8ef8a9:462040211</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_policy_5dbffa5ddb3757006bb976740f9619eb</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="DELETE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="dmn_demand"&gt;type=vendor^u_vendorISNOTEMPTY^EQ&lt;item endquery="false" field="type" goto="false" newquery="false" operator="=" or="false" value="vendor"/&gt;&lt;item endquery="false" field="u_vendor" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;true&lt;/inherit&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;false&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Make Vendor Agreement visible if exists&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Keith.Tucker@hhs.gov&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-08-07 19:30:26&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;5dbffa5ddb3757006bb976740f9619eb&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Make Vendor Agreement visible if exists&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_5dbffa5ddb3757006bb976740f9619eb&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Keith.Tucker@hhs.gov&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-08-07 19:31:17&lt;/sys_updated_on&gt;&lt;table&gt;dmn_demand&lt;/table&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2963588</payload_hash>
+<remote_update_set display_value="ITBM - Reduce Demand Types">f279c39adbc2a3006bb976740f9619aa</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>Keith.Tucker@hhs.gov</sys_created_by>
+<sys_created_on>2018-11-30 19:08:21</sys_created_on>
+<sys_id>fe79c39adbc2a3006bb976740f9619ab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1675a79cdc40000001</sys_recorded_at>
+<sys_updated_by>Keith.Tucker@hhs.gov</sys_updated_by>
+<sys_updated_on>2018-11-30 19:08:21</sys_updated_on>
+<table>dmn_demand</table>
+<target_name>Make Vendor Agreement visible if exists</target_name>
+<type>UI Policy</type>
+<update_domain>global</update_domain>
+<update_guid>9e86efedc7c22300931c9b69d9e7d242</update_guid>
+<update_guid_history>9e86efedc7c22300931c9b69d9e7d242:-2963588,71eff29d89375700655818f918756648:-1874918672,11bffa5d4a375700c368eb9c7dcab1ed:-735604250</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
